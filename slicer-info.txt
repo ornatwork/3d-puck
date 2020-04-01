@@ -1,0 +1,18 @@
+
+
+Version 2
+-------------------
+
+For scaling, both male and female
+  X-0.690 inches 
+  Y 0.451 inches 
+  Z-0.644 inches 
+
+Version 3
+-------------------
+Here are the updated parts. The male was lengthened a bit, and the female shorter. These ones were still a little tight to install but I was able to get them in with my hands. Let me know how they work out for you and if you want to change anything. 
+
+For scaling, 
+  Female Z-12.141 mm
+    Male Z-20.050 mm
+
