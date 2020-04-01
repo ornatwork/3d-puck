@@ -1,12 +1,17 @@
 
 
-Version 2
+Version 1
 -------------------
-
 For scaling, both male and female
   X-0.690 inches 
   Y 0.451 inches 
   Z-0.644 inches 
+
+
+Version 2
+-------------------
+For scaling, both male and female
+  Z-15.8416mm
 
 Version 3
 -------------------
