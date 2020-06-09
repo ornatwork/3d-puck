@@ -42070,4 +42070,5 @@ M104 S0
 ;SETTING_3 pport_enable = True\\n\\n", "extruder_quality": ["[general]\\nversion
 ;SETTING_3  = 4\\nname = Normal #2\\ndefinition = monoprice_select_mini_v1\\n\\n
 ;SETTING_3 [metadata]\\ntype = quality_changes\\nquality_type = fast\\nposition 
-;SETTING_3 = 0\\n\\n[values]\\ninfill_sparse_density = 100\\n\\n"]}
+;SETTING_3 = 0\\n\\n[values]\\ninfill_pattern = cubic\\ninfill_sparse_density = 
+;SETTING_3 100\\n\\n"]}
